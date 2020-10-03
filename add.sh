@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Enter first Number: " x
-read -p "Enter second Number: " y
+read -p "Enter 1st Value: " x
+read -p "Enter 2nd Value: " y
 z=$(( $x + $y))
 echo $z
